@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or data, please cite the following paper."
-type: software
+type: dataset
 title: "Data and analysis code: Harnessing Van der Waals CrPS4 and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe3GeTe2"
 repository-code: "https://github.com/sadityakr/EB-in-FGT-OFGT-CrPS4-vdW-heterostructure"
 license: MIT
