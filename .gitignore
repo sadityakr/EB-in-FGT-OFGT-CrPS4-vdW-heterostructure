@@ -1,0 +1,34 @@
+# Generated outputs and publication figures
+output/
+figures/
+
+# Raw/exploratory scripts (superseded by notebooks)
+raw_scripts/
+
+# Extra notebooks not for publication
+extra-notebooks-not-to-be-published/
+
+# Temporary files
+tmp/
+
+# Python build artifacts
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Claude Code project settings
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

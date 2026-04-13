@@ -1,0 +1,83 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the following paper."
+type: software
+title: "Data and analysis code: Harnessing Van der Waals CrPS4 and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe3GeTe2"
+repository-code: "https://github.com/sadityakr/EB-in-FGT-OFGT-CrPS4-vdW-heterostructure"
+license: MIT
+date-released: "2024-03-04"
+
+authors:
+  - family-names: Puthirath Balan
+    given-names: Aravind
+  - family-names: Kumar
+    given-names: Aditya
+  - family-names: Scholz
+    given-names: Tanja
+  - family-names: Lin
+    given-names: Zhongchong
+  - family-names: Shahee
+    given-names: Aga
+  - family-names: Fu
+    given-names: Shuai
+  - family-names: Denneulin
+    given-names: Thibaud
+  - family-names: Vas
+    given-names: Joseph
+  - family-names: Kovács
+    given-names: András
+  - family-names: Dunin-Borkowski
+    given-names: Rafal E.
+  - family-names: Wang
+    given-names: Hai I.
+  - family-names: Yang
+    given-names: Jinbo
+  - family-names: Lotsch
+    given-names: Bettina V.
+  - family-names: Nowak
+    given-names: Ulrich
+  - family-names: Kläui
+    given-names: Mathias
+
+preferred-citation:
+  type: article
+  title: "Harnessing Van der Waals CrPS4 and Surface Oxides for Nonmonotonic Preset Field Induced Exchange Bias in Fe3GeTe2"
+  journal: "ACS Nano"
+  volume: 18
+  issue: 11
+  start: 8383
+  end: 8391
+  year: 2024
+  issn: "1936-0851"
+  doi: "10.1021/acsnano.3c13034"
+  url: "https://doi.org/10.1021/acsnano.3c13034"
+  authors:
+    - family-names: Puthirath Balan
+      given-names: Aravind
+    - family-names: Kumar
+      given-names: Aditya
+    - family-names: Scholz
+      given-names: Tanja
+    - family-names: Lin
+      given-names: Zhongchong
+    - family-names: Shahee
+      given-names: Aga
+    - family-names: Fu
+      given-names: Shuai
+    - family-names: Denneulin
+      given-names: Thibaud
+    - family-names: Vas
+      given-names: Joseph
+    - family-names: Kovács
+      given-names: András
+    - family-names: Dunin-Borkowski
+      given-names: Rafal E.
+    - family-names: Wang
+      given-names: Hai I.
+    - family-names: Yang
+      given-names: Jinbo
+    - family-names: Lotsch
+      given-names: Bettina V.
+    - family-names: Nowak
+      given-names: Ulrich
+    - family-names: Kläui
+      given-names: Mathias

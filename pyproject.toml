@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eb-fgt-ofgt-crps4"
+version = "0.1.0"
+description = "Exchange bias analysis in FGT/O-FGT/CrPS4 heterostructures"
+requires-python = ">=3.8"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "scipy",
+    "h5py",
+]
+
+[tool.setuptools]
+packages = ["scripts", "scripts.utils"]

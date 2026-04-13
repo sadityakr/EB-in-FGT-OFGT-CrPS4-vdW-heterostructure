@@ -1,0 +1,33 @@
+Creative Commons Attribution 4.0 International License (CC BY 4.0)
+
+Copyright (c) 2024 Aditya Kumar
+
+The data contained in the `data/` directory of this repository is licensed
+under the Creative Commons Attribution 4.0 International License.
+
+You are free to:
+  - Share — copy and redistribute the data in any medium or format
+  - Adapt — remix, transform, and build upon the data for any purpose,
+    even commercially
+
+Under the following terms:
+  - Attribution — You must give appropriate credit. This means you MUST
+    cite the following paper in any work that uses this data:
+
+      Puthirath Balan, A.; Kumar, A.; Scholz, T.; Lin, Z.; Shahee, A.;
+      Fu, S.; Denneulin, T.; Vas, J.; Kovács, A.; Dunin-Borkowski, R. E.;
+      Wang, H. I.; Yang, J.; Lotsch, B. V.; Nowak, U.; Kläui, M.
+      "Harnessing Van der Waals CrPS4 and Surface Oxides for Nonmonotonic
+      Preset Field Induced Exchange Bias in Fe3GeTe2."
+      ACS Nano 18, 8383–8391 (2024).
+      DOI: https://doi.org/10.1021/acsnano.3c13034
+
+    You must also provide a link to this license and indicate if changes
+    were made. You may do so in any reasonable manner, but not in any way
+    that suggests the licensor endorses you or your use.
+
+  - No additional restrictions — You may not apply legal terms or
+    technological measures that legally restrict others from doing
+    anything the license permits.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
